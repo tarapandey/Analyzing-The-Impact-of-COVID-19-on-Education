@@ -12,6 +12,6 @@ These data sets helped visualize and draw conclusions on the impact of COVID-19 
 
 2018 and previous PISA data was collected from Kaggle data set: https://www.kaggle.com/code/julioam/pisa-score-by-country-analysis/input from Julio Antonio Megu
 Data set with 3-letter country-codes and full country names collected from Kaggle: https://www.kaggle.com/datasets/wbdill/country-codes-iso-3166 from bdill
-
+World-wide COVID data collected from Kaggle: https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=worldometer_data.csv from Devakumar K. P.
 
 
