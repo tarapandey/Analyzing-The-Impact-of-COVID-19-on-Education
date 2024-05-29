@@ -11,7 +11,9 @@ We can observe that most countries were mild in their restrictions on COVID. The
 These data sets helped visualize and draw conclusions on the impact of COVID-19 on education. Across the world, test scores seemed to go down due to the impact of the COVID-19 pandemic, which was evident through PISA testing. This data is important so we can quantify the effects of the pandemic on the next generation and it reflects on the state of education as a whole.
 
 2018 and previous PISA data was collected from Kaggle data set: https://www.kaggle.com/code/julioam/pisa-score-by-country-analysis/input from Julio Antonio Megu
+
 Data set with 3-letter country-codes and full country names collected from Kaggle: https://www.kaggle.com/datasets/wbdill/country-codes-iso-3166 from bdill
+
 World-wide COVID data collected from Kaggle: https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=worldometer_data.csv from Devakumar K. P.
 
 
