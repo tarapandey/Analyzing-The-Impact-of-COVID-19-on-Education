@@ -16,4 +16,5 @@ Data set with 3-letter country-codes and full country names collected from Kaggl
 
 World-wide COVID data collected from Kaggle: https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=worldometer_data.csv from Devakumar K. P.
 
+2022 PISA data collected from the OECD library: https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en
 
